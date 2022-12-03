@@ -44,7 +44,7 @@ dropdown = html.Div([
 app.layout = html.Div(
     [
         dbc.Row([
-            dbc.Col((html.H1('FIFA 2022 World Cup Qatar',
+            dbc.Col((html.H1('FIFA 2022 World Cup Qatar Predictor',
                              style={'textAlign': 'center', 'color': 'white', 'marginTop': 90})), width=12)
         ], style={'background-color': 'indigo', 'marginBottom': 20, 'height': 200}),
 html.Div([
@@ -68,7 +68,7 @@ html.Div([
 html.Div([
             dbc.Row([
                 dbc.Col(
-                    html.H2(html.B('Performance history of playing teams'),
+                    html.H2(html.B('Performance history of playing teams in past world cups since 1930'),
                             style={'textAlign': 'left', 'marginBottom': 30, 'marginLeft': 10, 'marginTop': 15}),
                     width=12)
             ]),
