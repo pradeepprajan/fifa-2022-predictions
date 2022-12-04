@@ -47,6 +47,8 @@ ID,match_date,stage,team1,team1_code,team2,team2_code,expected_goals_team1,expec
 46,2022-12-02,Group stage,South Korea,189,Portugal,162,0.87,1.32,0,0,28,9,12.02,12.45,75.53,2.0,1.0,South Korea
 47,2022-12-03,Group stage,Serbia,179,Switzerland,196,0.82,1.29,0,0,21,15,5.73,11.9,82.36,2.0,3.0,Switzerland
 48,2022-12-03,Group stage,Brazil,28,Cameroon,35,1.92,0.73,0,0,1,43,94.52,3.9,1.59,0.0,1.0,Cameroon
-49,2022-12-03,Round of 16,Netherlands,142,United States,213,1.68,1.09,0,0,8,16,95.9,1.57,2.53,,,
-50,2022-12-04,Round of 16,Argentina,9,Australia,12,1.55,1.07,0,0,3,38,92.14,4.24,3.62,,,
+49,2022-12-03,Round of 16,Netherlands,142,United States,213,1.68,1.09,0,0,8,16,95.9,1.57,2.53,3.0,1.0,Netherlands
+50,2022-12-04,Round of 16,Argentina,9,Australia,12,1.55,1.07,0,0,3,38,92.14,4.24,3.62,2.0,1.0,Argentina
 51,2022-12-04,Round of 16,France,75,Poland,161,1.72,1.11,0,0,4,26,95.57,1.14,3.29,,,
+52,2022-12-05,Round of 16,England,66,Senegal,178,1.38,1.75,0,0,5,18,2.88,85.81,11.31,,,
+53,2022-12-05,Round of 16,Japan,106,Croatia,51,1.13,1.35,0,0,24,12,9.79,22.43,67.78,,,
