@@ -15,8 +15,8 @@ df_2022_avg['Total_goals'] = df_2022_avg['goals_as_team1']+df_2022_avg['goals_as
 df_2022_avg['Total_matches'] = df_2022_avg['matches_as_team1']+df_2022_avg['matches_as_team2']
 
 # preparing data for plotting
-date_today = '2022-12-04'
-date_tomorrow = '2022-12-05'
+date_today = '2022-12-05'
+date_tomorrow = '2022-12-06'
 today_match = df_2022[:][(df_2022['match_date'] == date_today) | (df_2022['match_date'] == date_tomorrow)]
 today_teams = []
 for index,row in today_match.iterrows():
