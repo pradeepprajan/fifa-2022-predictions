@@ -53,5 +53,13 @@ ID,match_date,stage,team1,team1_code,team2,team2_code,expected_goals_team1,expec
 52,2022-12-05,Round of 16,England,66,Senegal,178,1.38,1.75,0,0,5,18,2.88,85.81,11.31,3.0,0.0,England
 53,2022-12-05,Round of 16,Japan,106,Croatia,51,1.13,1.35,0,0,24,12,9.79,22.43,67.78,1.0,1.0,Croatia(Penalties)
 54,2022-12-06,Round of 16,Brazil,28,South Korea,189,1.92,0.92,0,0,1,28,94.53,1.17,4.31,4.0,1.0,Brazil
-55,2022-12-06,Round of 16,Morocco,137,Spain,191,0.8,1.61,0,0,22,7,1.24,93.33,5.43,,,
-56,2022-12-07,Round of 16,Portugal,162,Switzerland,196,1.31,1.29,0,0,9,15,16.76,11.75,71.49,,,
+55,2022-12-06,Round of 16,Morocco,137,Spain,191,0.8,1.61,0,0,22,7,1.24,93.33,5.43,0.0,0.0,Morocco(Penalties)
+56,2022-12-07,Round of 16,Portugal,162,Switzerland,196,1.31,1.29,0,0,9,15,16.76,11.75,71.49,6.0,1.0,Portugal
+57,2022-12-08,Quarter Final,Croatia,51,Brazil,28,1.33,1.95,0,0,12,1,1.62,92.47,5.91,1.0,1.0,Croatia(Penalties)
+58,2022-12-10,Quarter Final,Netherlands,142,Argentina,9,1.72,1.56,0,0,8,3,17.06,10.93,72.01,2.0,2.0,Argentina(Penalties)
+59,2022-12-10,Quarter Final,Morocco,137,Portugal,162,0.71,1.48,0,0,22,9,10.2,17.32,72.47,1.0,0.0,Morocco
+60,2022-12-11,Quarter Final,England,66,France,75,1.41,1.75,0,0,5,4,2.63,91.38,5.98,1.0,2.0,France
+61,2022-12-14,Semi Final,Argentina,9,Croatia,51,1.57,1.32,0,0,3,12,94.91,3.15,1.94,3.0,0.0,Argentina
+62,2022-12-15,Semi Final,France,75,Morocco,137,1.76,0.72,0,0,4,22,96.44,0.8,2.76,2.0,0.0,France
+63,2022-12-17,Play off for third place,Croatia,51,Morocco,137,1.26,0.68,0,0,12,22,12.19,16.45,71.36,,,
+64,2022-12-18,Final,Argentina,9,France,75,1.6,1.76,0,0,3,4,10.18,7.39,82.43,,,
